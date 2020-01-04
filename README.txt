@@ -1,5 +1,5 @@
-�ļ����������������ļ�
-test.py�ǲ��Դ��룬ֻҪ���и��ļ���������sjtu-m3dv-medical-3d-voxel-classification�ļ���������һ��submission.csv�ļ�
-train.py��ѵ������
-����������.h5��test.py���õ�������ģ��
-sjtu-m3dv-medical-3d-voxel-classification�����ݼ������洢���ɵ�submission.csv�ļ�
+文件夹中有两个代码文件
+test.py是测试代码，只要运行该文件，可以生成一个submission.csv文件，生成的文件存储在测试集文件夹中
+train.py是训练代码
+最优神经网络.h5是test.py采用的神经网络模型
+测试集文件夹指定路径为电脑桌面
